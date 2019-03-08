@@ -32,7 +32,7 @@
     "test"
   ],
   "devDependencies": {
-    "@types/jest": "^24.0.0",
+    "@types/jest": "24.0.9",
     "@types/node": "^11.9.0",
     "coveralls": "^3.0.0",
     "jest": "^23.4.1",
